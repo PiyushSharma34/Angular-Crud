@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "3e8c",
+      "name": "dell",
+      "email": "nishanksharma34@gmail.com",
+      "city": "rura",
+      "Pincode": 54,
+      "Mobile": 56645
+    },
+    {
+      "id": "84c3",
+      "name": "dell",
+      "email": "nishanksharma34@gmail.com",
+      "city": "rura",
+      "Pincode": 54,
+      "Mobile": 56645
+    },
+    {
+      "id": "8f11",
+      "name": "PIYUSH ",
+      "email": "piyush@gmail.com",
+      "city": "KANPURQ",
+      "Pincode": 964548,
+      "Mobile": 655679457
+    }
+  ]
+}

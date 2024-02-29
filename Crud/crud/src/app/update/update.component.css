@@ -1,0 +1,29 @@
+h5{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  font-size: 25px;
+  letter-spacing: 3px;
+  text-shadow: 2px 5px 10px rgb(133, 133, 61);
+
+
+}
+form{
+  padding: 50px;
+  margin-top: -50px;
+  /* background-color: yellow; */
+}
+.card{
+  background-color: aliceblue;
+  border: 3px solid blue;
+  border-radius: 20px;
+  box-shadow: 5px 10px 12px 5px gray;
+  position: relative;
+left: 25em;
+top: 5em;
+
+}
+
+button{
+  margin: 20px;
+}
